@@ -1,0 +1,12 @@
+{
+	"bot": {
+		"id": "",
+		"secret": "",
+		"status": "dnd",
+		"url": "https://www.ghidorah.uk",
+		"production": true
+	},
+	"app": {
+		"port": 443
+	}
+}
