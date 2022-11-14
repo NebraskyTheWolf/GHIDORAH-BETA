@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 const path = require('node:path');
-const { _loadFile } = require('../utils/FileHelper');
+const { _loadFile } = require('./utils/FileHelper');
 const { Discord, Client, Intents, Collection } = require('discord.js');
 const discordModals = require('discord-modals');
 const MongoDB = require('../model/MongoDB');
